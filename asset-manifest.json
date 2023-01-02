@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/car_website/static/css/main.8dca1a51.css",
+    "main.js": "/car_website/static/js/main.13cd4562.js",
+    "static/media/IMG_3240.JPG": "/car_website/static/media/IMG_3240.efefce795b05b7394842.JPG",
+    "static/media/IMG_3241.JPG": "/car_website/static/media/IMG_3241.b87e04cb24de86b093ec.JPG",
+    "static/media/IMG_3236.JPG": "/car_website/static/media/IMG_3236.723593ce8f8668aeaff8.JPG",
+    "index.html": "/car_website/index.html",
+    "main.8dca1a51.css.map": "/car_website/static/css/main.8dca1a51.css.map",
+    "main.13cd4562.js.map": "/car_website/static/js/main.13cd4562.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dca1a51.css",
+    "static/js/main.13cd4562.js"
+  ]
+}
